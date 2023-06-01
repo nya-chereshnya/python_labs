@@ -1,0 +1,2 @@
+g++ -shared -fPIC -o lib.so lib.cpp
+g++ -shared -o lib.dll lib.cpp
